@@ -1,0 +1,7 @@
+@use 'custom';
+$purple-dark:  #9926f0 ;
+$primary:       $purple-dark ;
+
+.nav-link{
+    color: $purple-dark;
+}
